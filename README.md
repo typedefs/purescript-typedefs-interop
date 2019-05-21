@@ -1,4 +1,6 @@
-# ps-interop
+# purescript-typedefs-interop
+
+**DEAD END EXPERIMENT: this turned out to be an unviable approach, due to erasure removing all payload on `Mu` terms.**
 
 Direct interop with the ASTs of parsed Typedefs terms from PureScript.
 
