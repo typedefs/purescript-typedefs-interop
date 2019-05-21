@@ -1,4 +1,6 @@
-# ps-interop
+# purescript-typedefs-interop
+
+**DEAD END EXPERIMENT: this turned out to be an unviable approach.**
 
 Direct interop with the ASTs of parsed Typedefs terms from PureScript.
 
